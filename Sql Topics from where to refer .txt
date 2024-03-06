@@ -1,0 +1,26 @@
+Sql Topics from where to refer 
+
+1. Sql All Topics Revise (W3 Schools) - W3 Schools has all MySql Commands
+     https://www.w3schools.com/sql/
+
+2. SQL Windows Functions - 
+https://www.javatpoint.com/sql-server-window-functions
+
+3. Sql ROWS BETWEEN functions - 
+https://learnsql.com/blog/sql-window-functions-rows-clause/
+
+4. MySql Importabnt Functions
+String Functions 
+ASCII, CHAR_LENGTH, CHARACTER_LENGTH, CONCAT, CONCAT_WS, FORMAT, INSERT, INSTR, LCASE, LEFT, LENGTH, LOCATE (SAME AS INSTR, POSITION), LOWER, LTRIM, MID(same as SUBSTR, SUBSTRING), REPEAT, REPLACE, REVERSE, RIGHT, TRIM, UPPER 
+ 
+MySql DateTime Function 
+CURRENT_TIMESTAMP(), CURRENT_TIME(), CURRENT_DATE(), DATE_DIFF, DATE_FORMAT, EXTRACT 
+ 
+Advanced MySql Functions 
+BIN, CASE, CAST, COALESCE, IFNULL, ISNULL, NULLIF, SYSTEM_USER
+
+MySql DateTime Function 
+CURRENT_TIMESTAMP(), CURRENT_TIME(), CURRENT_DATE(), DATE_DIFF, DATE_FORMAT, EXTRACT 
+ 
+Advanced MySql Functions 
+BIN, CASE, CAST, COALESCE, IFNULL, ISNULL, NULLIF, SYSTEM_USER
